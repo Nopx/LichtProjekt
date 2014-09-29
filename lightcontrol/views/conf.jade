@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  .row
+    .col-md-1
+    .col-md-11
+      div#sliders.top-space
+  each device in devices
+    .row
+      .col-md-12
+        h3= device.conf.name
+
+  script(src='/javascripts/conf.js')

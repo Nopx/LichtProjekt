@@ -1,0 +1,30 @@
+extends layout
+
+block content
+
+	div(ontouchstart="this.classList.toggle('hover')")#colorTile.tile.flip-container
+		.flipper
+			.front
+				h3 Color Picker
+				p Use the color picker to send color data to the Moving Head. 
+				p Hover to show the color wheel.
+			.back
+				div#colors
+				
+	div(onclick="location.href='./car'")#carTile.tile
+		.flipper
+			h3 Virtual Hot Wire
+			p Control the light of the Moving Head with a Xbox 360 Controller. Drive through the course as fast as possible without hitting the edges.
+		
+		
+	div(onclick="location.href='./pong'")#pongTile.tile
+		.flipper
+			h3 TechTennis
+			p Play with the Moving Head. Two players are going to play against each other, using their hands as rackets.
+		
+		
+	div(onclick="location.href='./timer'")#timerTile.tile
+		.flipper
+			h3 Light Timer
+			p Use the Moving Head as visual feedback for presentations. Set the time and select two colors.
+			
