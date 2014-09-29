@@ -1,0 +1,22 @@
+﻿<Window x:Class="KinectSkeletonApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pong" Height="800" Width="800"
+        Name="pongWindow">
+    <Grid>
+        <ComboBox Visibility="Hidden" Name="modeBox" HorizontalAlignment="Left" Margin="453,10,0,0" VerticalAlignment="Top" Width="78" SelectionChanged="ComboBox_SelectionChanged"/>
+        <Canvas Background="Black" Width="430" Height="450" Name="pongCanvas">
+            <Rectangle Fill="Red" Height="60" Width="60" Name="bat1" Canvas.Top=" 0"/>
+            <Rectangle Fill="Blue" Height="60" Width="60" Name="bat2" Canvas.Top=" 0"/>
+            <Ellipse Fill="White" Height="15" Width="15" Name="ball" Canvas.Top="0" Canvas.Left="0"/>
+        </Canvas>
+        <Popup Name ="CalibrationPopUp" IsOpen="False">
+            <Grid>
+                
+                <Slider Name="xSlider" Maximum="100" Minimum="-100" Value="0" Width="100" ValueChanged="slider_ValueChanged" Margin="299,0,132,0"/>
+                <Slider Name="ySlider" Maximum="100" Minimum="-100" Value="0" Width="100" ValueChanged="slider_ValueChanged" Margin="162,0,269,0"/>
+                <Slider Name="zSlider" Maximum="100" Minimum="-100" Value="0" Width="100" ValueChanged="slider_ValueChanged" Margin="10,0,421,0"/>
+            </Grid>
+        </Popup>
+    </Grid>
+</Window>

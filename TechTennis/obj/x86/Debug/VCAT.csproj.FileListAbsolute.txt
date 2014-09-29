@@ -1,0 +1,23 @@
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.exe
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.pdb
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\App.g.cs
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2_MarkupCompile.cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.g.resources
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.Properties.Resources.resources
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\VCAT.csproj.GenerateResource.Cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.exe
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.pdb
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.exe
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.pdb
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.exe
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.pdb
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\VCAT.csprojResolveAssemblyReference.cache
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.baml
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.g.cs
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\App.g.cs
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2_MarkupCompile.cache
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.g.resources
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.Properties.Resources.resources
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\VCAT.csproj.GenerateResource.Cache

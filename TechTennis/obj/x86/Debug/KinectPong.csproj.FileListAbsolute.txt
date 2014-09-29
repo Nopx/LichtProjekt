@@ -1,0 +1,45 @@
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.exe
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.pdb
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.baml
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.g.cs
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\App.g.cs
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2_MarkupCompile.cache
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.g.resources
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.Properties.Resources.resources
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectPong.csproj.GenerateResource.Cache
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.exe
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.pdb
+B:\DevStff\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectPong.csprojResolveAssemblyReference.cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.exe
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.pdb
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.exe
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.pdb
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectPong.csprojResolveAssemblyReference.cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\App.g.cs
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2_MarkupCompile.cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.g.resources
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.Properties.Resources.resources
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Kinect\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectPong.csproj.GenerateResource.Cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.exe
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.pdb
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.exe
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.pdb
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectPong.csprojResolveAssemblyReference.cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\App.g.cs
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2_MarkupCompile.cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.g.resources
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.Properties.Resources.resources
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectPong.csproj.GenerateResource.Cache
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\SocketIOClient.dll
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\WebSocket4Net.dll
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\SocketIOClient.pdb
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\SocketIOClient.xml
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\WebSocket4Net.pdb
+C:\Users\Bernie\Documents\Visual Studio 2013\Projects\Pongs\Pong\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.CallibrationPopUp.resources
